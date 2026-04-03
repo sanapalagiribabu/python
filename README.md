@@ -51,3 +51,47 @@
 - Pickle (pros & cons)
 - Working with directories (os, pathlib)
 - Logging to files
+
+## Numerical Computing (AI Foundation)
+- Numpy
+    - Arrays, shapes, dtypes
+    - Broadcasting
+    - Vectorized operations
+    - Linear algebra basics
+    - Random sampling
+
+## Data Analysis & Manipulation
+- Pandas
+    - Series and DataFrames
+    - Indexing & filtering
+    - GroupBy & aggregation
+    - Missing values handling
+    - Merging & joining
+    - Time-series basics
+
+## Data Visualization (Essential)
+- Matplotlib
+- Seaborn
+- Plot types from EDA (Exploratory Data Analysis)
+
+## Standard Library (High-ROI Parts)
+- os, sys
+- pathlib
+- datetime, time
+- math, random
+- logging
+
+## Asynchronous & Parallel Python (Modern AI Apps)
+- Multithreading vs multiprocessing
+- async / await
+- Async I/O basics
+- When to use each
+
+## Other Python Libraries
+- FastAPI
+- Pydantic
+
+## Production-Ready Python Mindset
+- Writing clean, readable code
+- Modular design
+- Logging & monitoring mindset
